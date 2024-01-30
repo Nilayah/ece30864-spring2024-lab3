@@ -6,3 +6,6 @@ b) Explain the role and responsibilities of the Scrum Master vs the Product Owne
 
 c) What are the 3 types of meetings that happen during a sprint cycle? List at least 2 points on what needs to be discussed during each of these meetings.
     The three types of meetings are Sprint Planning Meeting, Sprint Retrospective Meeting, and Scrum Meeting. Sprint Planning Meeting plans tasks for the sprint and estimates task effort and task allocation. Sprint Retrospective Meeting looks back on completed sprint and assess weak points, move unfinished tasks to backlog. Scrum meetings  are daily meetings that discuss what was completed yesterday, what will be completed today and any blockers.
+
+d)Differentiate between Epic, Story, Bug, and Task issue types in JIRA.
+    Epic captures a large body of work that can broken down into several small stories. A story is a software system requirement that is expressed in a few short sentences. A bug is a problem found in the project that needs to be fixed before continuation. A task is the steps required to resolve the issues.
