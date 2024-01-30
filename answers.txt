@@ -1,2 +1,5 @@
 a) In a non-Agile project, who is equivalent to the Product Owner? Explain the role and need of the Product Owner in Agile Methodology.
     The product owner is equivalent to on-site customer, product champion, product director, or value manager. The role of the product owner is to manage the backlog and determine when tasks need to be accomplished. They work heavily with the development team to back sure the backlog items are completed correctly.
+
+b) Explain the role and responsibilities of the Scrum Master vs the Product Owner.
+    The Scrum Master manages everything to do with the scrum. They are to follow the guidelines set up by the scrum and hold everyone to the scrum framework. The Product Owners job is to manage the backlog and make sure everyone is doing the correct backlog items.
